@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/madeline/C_Projects/MinecraftTranslated/cmake-build-debug",
+	"dir-cur-src" : "/home/madeline/C_Projects/MinecraftTranslated",
+	"dir-top-bld" : "/home/madeline/C_Projects/MinecraftTranslated/cmake-build-debug",
+	"dir-top-src" : "/home/madeline/C_Projects/MinecraftTranslated",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/madeline/C_Projects/MinecraftTranslated/Headers",
+		"/home/madeline/C_Projects/MinecraftTranslated/Libraries"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/madeline/C_Projects/MinecraftTranslated/cmake-build-debug/CMakeFiles/MinecraftTranslated.dir"
+}

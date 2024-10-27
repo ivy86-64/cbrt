@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/MinecraftTranslated.dir/main.cpp.o: dyndep
+
+build CMakeFiles/MinecraftTranslated.dir/Core/Minecraft.cpp.o: dyndep
+
+build CMakeFiles/MinecraftTranslated.dir/Renderer/RenderEngine.cpp.o: dyndep
+
+build CMakeFiles/MinecraftTranslated.dir/Renderer/FontRenderer.cpp.o: dyndep
+
+build CMakeFiles/MinecraftTranslated.dir/Core/GameSettings.cpp.o: dyndep
+
+build CMakeFiles/MinecraftTranslated.dir/Renderer/ScaledResolution.cpp.o: dyndep
+

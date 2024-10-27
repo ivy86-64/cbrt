@@ -1,0 +1,26 @@
+# ninja log v6
+846	868	1729965718478871097	CMakeFiles/MinecraftTranslated.dir/Renderer/ScaledResolution.cpp.o.ddi	6e7a9b0104b65e4d
+607	3233	1730027099274774644	CMakeFiles/MinecraftTranslated.dir/Renderer/RenderEngine.cpp.o	f65a676479a4e43e
+607	3356	1730027099274774644	CMakeFiles/MinecraftTranslated.dir/Core/Minecraft.cpp.o	7795ca86cd02c823
+3234	6290	1730027101904860276	CMakeFiles/MinecraftTranslated.dir/Renderer/FontRenderer.cpp.o	b0a31086c386bdf2
+7	75	1729881533030689065	CMakeFiles/MinecraftTranslated.dir/Core/MinecraftMainThread.cpp.o.ddi	ba991dd01c508b01
+2	398	1730027098671421664	CMakeFiles/MinecraftTranslated.dir/main.cpp.o.ddi	2bf051f37cc9fc99
+7	388	1729882151711156152	CMakeFiles/MinecraftTranslated.dir/Libraries/glad.c.o	3f45410ee5e4c247
+2	297	1730027098671421664	CMakeFiles/MinecraftTranslated.dir/Core/Minecraft.cpp.o.ddi	33a6da4b9898f588
+383	392	1729881533407358869	CMakeFiles/MinecraftTranslated.dir/Core/MinecraftMainThread.cpp.o.modmap	4d18d7311723e454
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/Renderer/RenderEngine.cpp.o.modmap	9461d973369d9bff
+1	48	1729964947771935467	build.ninja	7c7af656bb6c9f67
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/Renderer/FontRenderer.cpp.o.modmap	9461d973369d9bff
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/Renderer/ScaledResolution.cpp.o.modmap	9461d973369d9bff
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/CXX.dd	9461d973369d9bff
+297	600	1730027098968097992	CMakeFiles/MinecraftTranslated.dir/Renderer/FontRenderer.cpp.o.ddi	b96358865b222f3e
+8571	8756	1730026115906765749	MinecraftTranslated	c29ada1a2c548954
+381	568	1730027099051434038	CMakeFiles/MinecraftTranslated.dir/Core/GameSettings.cpp.o.ddi	a681ee2d58b39f13
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/Core/GameSettings.cpp.o.modmap	9461d973369d9bff
+5007	8571	1730026112339983968	CMakeFiles/MinecraftTranslated.dir/Core/GameSettings.cpp.o	eba54c4b43bfe351
+3	381	1730027098671421664	CMakeFiles/MinecraftTranslated.dir/Renderer/RenderEngine.cpp.o.ddi	a73712bdb6b0635f
+606	5917	1730027099274774644	CMakeFiles/MinecraftTranslated.dir/main.cpp.o	78f8888e6209ba1e
+6498	6531	1729965724129167131	CMakeFiles/MinecraftTranslated.dir/Renderer/ScaledResolution.cpp.o	29d7e4bde21cb0d3
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/main.cpp.o.modmap	9461d973369d9bff
+600	606	1730027099268107760	/home/madeline/C_Projects/MinecraftTranslated/cmake-build-debug/CMakeFiles/MinecraftTranslated.dir/CXXModules.json	9461d973369d9bff
+600	606	1730027099268107760	CMakeFiles/MinecraftTranslated.dir/Core/Minecraft.cpp.o.modmap	9461d973369d9bff

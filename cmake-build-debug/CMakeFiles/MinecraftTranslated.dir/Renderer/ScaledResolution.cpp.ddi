@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/MinecraftTranslated.dir/Renderer/ScaledResolution.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
